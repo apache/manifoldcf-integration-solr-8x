@@ -22,7 +22,7 @@
 
   <name>ManifoldCF Solr 8.x Plugin</name>
   <artifactId>apache-manifoldcf-solr-8.x-plugin</artifactId>
-  <version>2.3-SNAPSHOT</version>
+  <version>2.2</version>
   <packaging>jar</packaging>
   <description>ManifoldCF Plugin for Apache Solr 8.x</description>
   <inceptionYear>2019</inceptionYear>
